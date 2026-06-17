@@ -38,7 +38,7 @@ Getting the project up and running on your local machine is quick and straightfo
 First, pull the project down to your local environment and navigate into the newly created directory:
 
 ```bash
-git clone [https://github.com/Afeka-DevTools/26b-10142-bash-daniel-tal.git](https://github.com/Afeka-DevTools/26b-10142-bash-daniel-tal.git)
+git clone https://github.com/Afeka-DevTools/26b-10142-bash-daniel-tal.git
 cd 26b-10142-bash-daniel-tal
 ```
 
