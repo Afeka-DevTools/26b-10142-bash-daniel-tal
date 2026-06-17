@@ -5,7 +5,7 @@
 Below is the breakdown of our development team for this project:
 
 | Developer Name |
-| :--- | :--- | :--- |
+| :--- |
 | **Daniel Krichevsky** |
 | **Tal Kliot** |
 
