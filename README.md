@@ -18,7 +18,7 @@ Here is a breakdown of the specific tools and scripts developed by each team mem
 | Developer Name | Script File | Language | Description |
 | :--- | :--- | :---: | :--- |
 | **Daniel** | `timer.sh` | Bash | A countdown timer that dynamically updates in the terminal based on input (HH:MM:SS). |
-| **Daniel** | `TBA` | Bash | TBA |
+| **Daniel** | `weather_by_city.sh` | Bash | Shows the weather based on city input |
 | **Daniel** | `TBA` | Bash | TBA |
 | **Daniel** | `TBA` | Bash | TBA |
 | **Daniel** | `TBA` | Bash | TBA |
